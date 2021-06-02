@@ -1,7 +1,7 @@
 {
 	"adsonlineconfig": {
-		"ADS_PRIORITY_NO_1": "STARTAPP",
-		"ADS_PRIORITY_NO_2": "ADMOB",
+		"ADS_PRIORITY_NO_1": "ADMOB",
+		"ADS_PRIORITY_NO_2": "STARTAPP",
 		"ADS_PRIORITY_NO_3": "ADS_FAN",
 		"ADS_APP_ID": "ca-app-pub-89666184xxxxxxx~xxxxxxxx",
 		"ADS_ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
